@@ -21,3 +21,4 @@ for i in l:
         lr+=["Moderate",]
 print(lr)
 writer.writerows(lr)
+print("bhvhjvjvh")
